@@ -30,4 +30,4 @@ The project utilizes the `50_states.csv` file, which contains the names and coor
 
 **Note**: The project currently contains commented code (lines 31-37 and lines 43-46). Feel free to uncomment and modify the code as needed to enhance or customize the project.<br><br>
 **Disclaimer**: This project is intended for educational purposes and does not represent a comprehensive or accurate representation of the United States or its states.<br><br>
-Feel free to modify and improve upon this project! Happy gaming!
+Feel free to modify and improve upon this project
